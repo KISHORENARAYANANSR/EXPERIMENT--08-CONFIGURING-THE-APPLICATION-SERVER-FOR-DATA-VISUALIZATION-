@@ -1,5 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## NAME:KISHORE NARAYANAN SR
+## REGISTER.NO:212223110023
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -28,8 +29,14 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+ ![1](https://github.com/user-attachments/assets/eac928fd-a3a5-43d0-80ca-a08181fddbe3)
+![2](https://github.com/user-attachments/assets/ab80ed6e-4a52-48ac-8f4f-4b2a85d0a5d2)
+![3](https://github.com/user-attachments/assets/f026f36e-86bf-4edb-97d3-7a1167b7261b)
+![4](https://github.com/user-attachments/assets/ba305f16-6da0-4449-9c4a-a39fa8fb408e)
+![5](https://github.com/user-attachments/assets/5c4f3bdc-ac8d-4e48-aa4d-f5038b6be511)
+![6](https://github.com/user-attachments/assets/b4cdb9ad-7ad1-499a-8d38-41a30831a758)
+![8](https://github.com/user-attachments/assets/55f056c6-0f39-400a-9412-5506e4435090)
+
 
 
 
