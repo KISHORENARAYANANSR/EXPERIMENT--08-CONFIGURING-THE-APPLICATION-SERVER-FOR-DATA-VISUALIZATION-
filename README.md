@@ -1,6 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
-## NAME:KISHORE NARAYANAN SR
-## REGISTER.NO:212223110023
+# NAME: KISHORE NARAYANAN SR
+# REGISTER.NO: 212223110023
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
